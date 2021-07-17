@@ -1,4 +1,4 @@
-def loadIntegrals(fileName):
+def loadIntegrals(fileName, N):
     """
     Load integrals that are already calculated.
     Returns: Dictionary of integrals for i), ii), iii), iv) in Algorithm 4.2
@@ -99,7 +99,7 @@ def getIntegrals(p,N,M):
     
     try:
         """Attempt to load integrals from preexisting file."""
-        integral_1, integral_2, integral_3, integral_4 = loadIntegrals(fileName)
+        integral_1, integral_2, integral_3, integral_4 = loadIntegrals(fileName, N)
         load("Basis.sage")
         load("Algo_4_2a.sage")
         load("Algo_4_2b.sage")
