@@ -17,3 +17,6 @@ Please see the code for more details.
 
 ## Contributors 
 Max Fleischer, Yijia Liu, under the guidance of Prof. Samit Dasgupta.
+
+## binderhub link
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jxta/Computation-of-Elliptic-Units/HEAD?filepath=code/p-adic_Main.ipynb) &nbsp;&nbsp;  ***Computation-of-Elliptic-Units@mybinder*** 
