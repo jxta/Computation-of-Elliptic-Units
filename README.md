@@ -20,3 +20,4 @@ Max Fleischer, Yijia Liu, under the guidance of Prof. Samit Dasgupta.
 
 ## Binderhub link
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jxta/Computation-of-Elliptic-Units/HEAD?labpath=code%2Fp-adic_Main.ipynb) &nbsp;&nbsp;  ***Computation-of-Elliptic-Units@mybinder*** 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/jxta/Computation-of-Elliptic-Units/HEAD?labpath=code%2Fp-adic_Main.ipynb) &nbsp;&nbsp;  ***Computation-of-Elliptic-Units@NII binderhub***
