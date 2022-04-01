@@ -2,7 +2,7 @@ ARG BASE_CONTAINER=sagemath/sagemath:9.3
 FROM $BASE_CONTAINER
 
 USER root
-COPY ./entrypoint.sh /usr/local/bin/sage-entrypoint
+COPY ./entrypoint-dev.sh /usr/local/bin/sage-entrypoint
 
 ARG HOME=/home/sage
 USER sage
